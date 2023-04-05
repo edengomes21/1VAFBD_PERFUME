@@ -11,7 +11,7 @@ class ConnectDataBase:
             host="localhost",
             database="FBD_LojaPerfume1VA",
             user="postgres",
-            password="palmeiras"
+            password="postgres"
         )
 
     def get_instance(self):
